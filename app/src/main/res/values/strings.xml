@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="cse">CSE</string>
+    <string name="nahid_hasan">Nahid Hasan</string>
+    <string name="_100tk">100tk</string>
+    <string name="islamic_book">ইসলামিক বই</string>
+    <string name="horror_book">হরর বই</string>
+    <string name="novel_book">উপন্যাস বই</string>
+    <string name="programming_book">প্রোগ্রামিং বই</string>
+    <string name="view_all">View All</string>
+</resources>
